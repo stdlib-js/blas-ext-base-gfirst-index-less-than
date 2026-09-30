@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-15)
+## Unreleased (2026-09-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`67c1633`](https://github.com/stdlib-js/stdlib/commit/67c1633c999488e1807bb2aa77183662c6eb387b) - **chore:** fix inconsistencies across packages in `blas/ext/base*` [(#15146)](https://github.com/stdlib-js/stdlib/pull/15146) _(by Muhammad Haris, Athan Reines)_
 -   [`c6a6535`](https://github.com/stdlib-js/stdlib/commit/c6a6535236fd5c5915da6f8d54f6b8bb58515b69) - **docs:** enable lint rule and fix spacing in examples [(#13360)](https://github.com/stdlib-js/stdlib/pull/13360) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0932d0b`](https://github.com/stdlib-js/stdlib/commit/0932d0b21c85647f48a394306c6da3f374562ee9) - **feat:** add `blas/ext/base/gfirst-index-less-than` [(#13271)](https://github.com/stdlib-js/stdlib/pull/13271) _(by Muhammad Haris, Athan Reines)_
 
